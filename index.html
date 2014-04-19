@@ -1,119 +1,30 @@
+---
+layout: default
+title: Home
+---
 
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
-    <link rel="shortcut icon" href="favicon.ico">
+<div id="home">
+  <h1>Blog Posts</h1>
+  <ul class="posts">
+    {% for post in paginator.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a><br>{{ post.excerpt }}</li>
+    {% endfor %}
+  </ul>
+</div>
 
-    <title>Matthew DeAbreu</title>
-
-    <!-- Bootstrap core CSS -->
-    <link href="css/bootstrap.css" rel="stylesheet">
-    <!-- Custom styles for this template -->
-    <link href="css/style.css" rel="stylesheet">
-    
-    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-    <![endif]-->
-  </head>
-
-  <body role="document">
-
-    <!-- navbar -->
-    <div class="navbar navbar-default navbar-static-top">
-      <div class="container">
-        <div class="collapse navbar-collapse">
-          <ul class="nav navbar-nav">
-            <li class="active"><a href="#">Home</a></li>
-            <li><a href="#">About</a></li>
-            <li><a href="#">Employment</a></li>
-            <li><a href="#">Resume</a></li>
-            <li><a href="#">Contact</a></li>
-          </ul>
-        </div>
-      </div>
-    </div> <!-- /navbar -->
-
-    <!-- main container -->
-    <div class="container">
-
-      <!-- header -->
-      <div class="page-header">
-        <h1>Matthew DeAbreu</h1>
-      </div> <!-- /header -->
-
-      <!-- content -->
-      <div class="row post">
-        <div class="col-md-12">
-          <h1>Post header</h1>
-          <p>April 18, 2014</p>
-          <p>Last month NearlyFreeSpeech rolled out new features in the form of new server realms for their users, these realms include Apache 2.4 and PHP 5.4. In addition they have also included the awesome little command line tool wp-cli for managing your WordPress installation. You can read more about the awesome updates that the NFSN team rolled out in their blog post here: PHP 5.4, PHP 5.5, and Apache 2.4. In light of these new updates and the inclusion of wp-cli I have decided to write a quick little tutorial about how you can set up a simple little WordPress site in only a couple of minutes!</p>
-          <p><a href="#">Continue reading &raquo;</a></p>
-        </div>
-      </div>
-
-      <div class="row post">
-        <div class="col-md-12">
-          <h1>Post header</h1>
-          <p>April 18, 2014</p>
-          <p>Last month NearlyFreeSpeech rolled out new features in the form of new server realms for their users, these realms include Apache 2.4 and PHP 5.4. In addition they have also included the awesome little command line tool wp-cli for managing your WordPress installation. You can read more about the awesome updates that the NFSN team rolled out in their blog post here: PHP 5.4, PHP 5.5, and Apache 2.4. In light of these new updates and the inclusion of wp-cli I have decided to write a quick little tutorial about how you can set up a simple little WordPress site in only a couple of minutes!</p>
-          <p><a href="#">Continue reading &raquo;</a></p>
-        </div>
-      </div>
-
-      <div class="row post">
-        <div class="col-md-12">
-          <h1>Post header</h1>
-          <p>April 18, 2014</p>
-          <p>Last month NearlyFreeSpeech rolled out new features in the form of new server realms for their users, these realms include Apache 2.4 and PHP 5.4. In addition they have also included the awesome little command line tool wp-cli for managing your WordPress installation. You can read more about the awesome updates that the NFSN team rolled out in their blog post here: PHP 5.4, PHP 5.5, and Apache 2.4. In light of these new updates and the inclusion of wp-cli I have decided to write a quick little tutorial about how you can set up a simple little WordPress site in only a couple of minutes!</p>
-          <p><a href="#">Continue reading &raquo;</a></p>
-        </div>
-      </div>
-
-      <div class="row post">
-        <div class="col-md-12">
-          <h1>Post header</h1>
-          <p>April 18, 2014</p>
-          <p>Last month NearlyFreeSpeech rolled out new features in the form of new server realms for their users, these realms include Apache 2.4 and PHP 5.4. In addition they have also included the awesome little command line tool wp-cli for managing your WordPress installation. You can read more about the awesome updates that the NFSN team rolled out in their blog post here: PHP 5.4, PHP 5.5, and Apache 2.4. In light of these new updates and the inclusion of wp-cli I have decided to write a quick little tutorial about how you can set up a simple little WordPress site in only a couple of minutes!</p>
-          <p><a href="#">Continue reading &raquo;</a></p>
-        </div>
-      </div>
-
-      <div class="row post">
-        <div class="col-md-12">
-          <h1>Post header</h1>
-          <p>April 18, 2014</p>
-          <p>Last month NearlyFreeSpeech rolled out new features in the form of new server realms for their users, these realms include Apache 2.4 and PHP 5.4. In addition they have also included the awesome little command line tool wp-cli for managing your WordPress installation. You can read more about the awesome updates that the NFSN team rolled out in their blog post here: PHP 5.4, PHP 5.5, and Apache 2.4. In light of these new updates and the inclusion of wp-cli I have decided to write a quick little tutorial about how you can set up a simple little WordPress site in only a couple of minutes!</p>
-          <p><a href="#">Continue reading &raquo;</a></p>
-        </div>
-      </div>
-      <!-- /content -->
-
-      <!-- pagination -->
-      <div class="pager">
-        <ul class="pager">
-          <li class="previous"><a href="#">&larr; Older</a></li>
-          <li class="next"><a href="#">Newer &rarr;</a></li>
-        </ul>
-      </div><!-- /pagination -->
-
-    </div> <!-- /main container -->
-    
-    <!-- footer -->
-    <div class="footer">
-      <p>Copyright &copy; <a href="#">Matthew DeAbreu</a></p>
-    </div> <!-- /footer -->
-
-    <!-- Bootstrap core JavaScript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-    <script src="js/bootstrap.js"></script>
-  </body>
-</html>
+<div class="pagination">
+  {% if paginator.next_page %}
+    <a class="pagination-item older" href="/page{{paginator.next_page}}">Older</a>
+  {% else %}
+    <span class="pagination-item older">Older</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    {% if paginator.page == 2 %}
+      <a class="pagination-item newer" href="/">Newer</a>
+    {% else %}
+      <a class="pagination-item newer" href="/page{{paginator.previous_page}}">Newer</a>
+    {% endif %}
+  {% else %}
+    <span class="pagination-item newer">Newer</span>
+  {% endif %}
+</div>

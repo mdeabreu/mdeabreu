@@ -1,0 +1,19 @@
+# General Configuration
+pygments: true
+destination: ../public
+
+# Permalink
+permalink: /:year/:month/:day/:title/
+
+# Site
+title: Jekyll Test
+tagline: An experiment
+url: http://jekylltest.nfshost.com
+
+# Author
+author:
+  name: Matthew DeAbreu
+  url: http://mdeabreu.com
+
+# Paginate
+paginate: 1
