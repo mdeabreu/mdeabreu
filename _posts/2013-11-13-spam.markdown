@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Spam"
+date:   2013-11-13 22:52:00
+---
+
+This is my personal site, I think of it as my little home on the internet; a place for me to post random thoughts, the occasional tutorial, and information about myself for curious individuals (RE: prospective employers). So it seems a little bizarre whenever I look at the spam stats for my website, there is so much of it! To make it even weirder not a single piece has made it past the filters... So to give you a little in sight into the kind of spam and how much here are some photos!
+
+<a href="http://i.imgur.com/qtrdyHH.png"><img src="http://i.imgur.com/qtrdyHH.png" width="1588" height="213" class="alignnone" /></a>
+Here is a little graph from <a href="http://akismet.com/">Akismet</a>, a WordPress plugin installed by default, that has done an amazing job at filtering out spam comments. As you can see spam levels increased and then have been slowly decreasing. An odd thing I noticed a while back is that despite receiving one or two spam comments a day Google Analytics was unable to show that these "users" ever actually visited the site. It turns out that most spammers use bots that directly make HTTP POST requests to wp-comments-post.php, the WordPress comment script.
+
+<a href="http://i.imgur.com/3kHisEj.png"><img src="http://i.imgur.com/3kHisEj.png" width="981" height="65" class /></a>
+Your typical SEO spam, every blogger wants to have their site found so these guys spam links like crazy.
+
+<a href="http://i.imgur.com/v4RlPLT.jpg"><img src="http://i.imgur.com/v4RlPLT.jpg" width="547" height="53" class="alignnone" /></a>
+Some unrelated spam, this was posted as a comment on a blog post about pizza, so I'm not sure what handbags they're talking about...
+
+<a href="http://i.imgur.com/kKQU8VD.png"><img src="http://i.imgur.com/kKQU8VD.png" width="333" height="45" class="alignnone" /></a>
+Another comment about bags, although this time it looks like spammers easily lose their train of thought.
+
+<a href="http://i.imgur.com/cQdW6D1.png"><img src="http://i.imgur.com/cQdW6D1.png" width="995" height="313" class="alignnone" /></a>
+I  honestly don't know what to make of this...
+
+<a href="http://i.imgur.com/tAXWBm9.png"><img src="http://i.imgur.com/tAXWBm9.png" width="354" height="49" class="alignnone" /></a>
+Yet another one that I have no idea what to make of, I'm not sure I even want to know.
+
+So as you can see a wide variety of spam makes its way to the steps of my website only to be cast into the trashcan by <a href="http://akismet.com/">Akismet</a>. Despite the fact that none of this spam has made it onto my site as a comment I suppose on some sites the spam makes its way through the filters, otherwise the spammers would just give up. So if you are ever planning on hosting a site, please enable some form of spam protection so your users never have to see this.

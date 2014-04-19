@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Lunar.js"
-date:   2014-04-18 07:04:23
-categories: jekyll update
-tags: experiment intro
----
-
-Look into [Lunr.js](http://lunrjs.com)
