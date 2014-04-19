@@ -20,7 +20,7 @@ title: Home
     {% if paginator.next_page %}
       <li class="previous"><a href="/page{{paginator.next_page}}">&larr; Older</a></li>
     {% else %}
-      <li class="previous disabled">&larr; Older</li>
+      <li class="previous disabled"><a href="/page{{paginator.next_page}}">&larr; Older</a></li>
     {% endif %}
     {% if paginator.previous_page %}
       {% if paginator.page == 2 %}
@@ -29,7 +29,7 @@ title: Home
         <li class="next"><a href="/page{{paginator.previous_page}}">Newer &rarr;</a></li>
       {% endif %}
     {% else %}
-      <li class="next disabled">Newer &rarr;</li>
+      <li class="next"><a href="/page{{paginator.previous_page}}">Newer &rarr;</a></li>
     {% endif %}
   </ul>
 </div><!-- /pagination -->
