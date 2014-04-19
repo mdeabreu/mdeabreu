@@ -1,3 +1,13 @@
+html,
+body {
+  height: 100%;
+}
+
+.wrapper {
+  min-height: 100%;
+  position: relative;
+}
+
 /* Make the entire site narrower */
 @media (min-width: 768px) {
   .container {
@@ -20,7 +30,11 @@ div.pager {
 
 .footer {
   padding: 40px 0;
+  width: 100%;
   color: #999;
+  position: absolute;
+  bottom: 0;
+  left: 0;
   background-color: #f9f9f9;
   border-top: 1px solid #e5e5e5;
 }
