@@ -1,5 +1,13 @@
 <!DOCTYPE html>
+<html lang="en">
   <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="shortcut icon" href="favicon.ico">
+
     <title>
       {% if page.title == "Home" %}
         {{ site.title }} &middot; {{ site.tagline }}
@@ -7,25 +15,59 @@
         {{ page.title }} &middot; {{ site.title }}
       {% endif%}
     </title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="/css/bootstrap.css" rel="stylesheet">
+    <!-- Custom styles for this template -->
+    <link href="/css/style.css" rel="stylesheet">
+    
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
   </head>
-  <body>
-    <div class="header">
-      <a href="/">{{ site.title }}</a>
-      <small>{{ site.tagline }}</small>
-    </div>
-    <div class="navbar">
-      <h2>Navbar</h2>
-        <a href="/">Home</a></br>
-        <a href="/about">About</a></br>
-        <a href="/employment">Employment</a></br>
-        <a href="/resume">Resume</a></br>
-        <a href="/contact">Contact</a></br>
-    </div>
-    <div class="content">
+
+  <body role="document">
+
+    <!-- navbar -->
+    <div class="navbar navbar-default navbar-static-top">
+      <div class="container">
+        <div class="collapse navbar-collapse">
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Employment</a></li>
+            <li><a href="#">Resume</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </div>
+      </div>
+    </div> <!-- /navbar -->
+
+    <!-- main container -->
+    <div class="container">
+
+      <!-- header -->
+      <div class="page-header">
+        <h1><a href="{{ site.url }}">{{ site.title }}</a></h1>
+      </div> <!-- /header -->
+
       {{ content }}
-    </div>
+
+      <!-- pagination -->
+      <div class="pager">
+        <ul class="pager">
+          <li class="previous"><a href="#">&larr; Older</a></li>
+          <li class="next"><a href="#">Newer &rarr;</a></li>
+        </ul>
+      </div><!-- /pagination -->
+
+    </div> <!-- /main container -->
+    
+    <!-- footer -->
     <div class="footer">
-      <h1>Footer</h1>
+      <p>Copyright &copy; <a href="{{ site.author.url }}">{{ site.author.name }}</a></p>
       <h2>Recent Posts</h2>
       {% for post in site.posts limit:2 %}  
         <li>  
@@ -34,7 +76,12 @@
         </li>  
       {% endfor %}
       <a href="/archive">Archive</a>
-      <p>&copy; <a href="{{ site.author.url }}">{{ site.author.name }}</a> 2014</p>
-    </div>
+    </div> <!-- /footer -->
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="js/bootstrap.js"></script>
   </body>
 </html>
