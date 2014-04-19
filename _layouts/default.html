@@ -79,15 +79,7 @@
     
     <!-- footer -->
     <div class="footer">
-      <p>Copyright &copy; <a href="{{ site.author.url }}">{{ site.author.name }}</a></p>
-      <h2>Recent Posts</h2>
-      {% for post in site.posts limit:5 %}  
-        <li>  
-          <span>{{ post.date | date_to_string }}</span> &raquo;  
-          <a href="{{ post.url }}">{{ post.title }}</a>
-        </li>  
-      {% endfor %}
-      <a href="/archive">Archive</a>
+      <p class="text-center">Copyright &copy; <a href="{{ site.author.url }}">{{ site.author.name }}</a></p>
     </div> <!-- /footer -->
 
     <!-- Bootstrap core JavaScript
