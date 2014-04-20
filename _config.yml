@@ -17,3 +17,6 @@ author:
 
 # Paginate
 paginate: 10
+
+# Excerpts
+excerpt_separator: <!--more-->
