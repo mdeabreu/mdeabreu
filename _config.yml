@@ -6,9 +6,9 @@ destination: ../public
 permalink: /:year/:month/:day/:title/
 
 # Site
-title: Jekyll Test
-tagline: An experiment
-url: http://jekylltest.nfshost.com
+title: Matthew DeAbreu
+tagline: 
+url: http://mdeabreu.com
 
 # Author
 author:
