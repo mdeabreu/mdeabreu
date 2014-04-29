@@ -27,6 +27,20 @@ body {
 .post {
   margin-bottom: 25px;
 }
+.page img,
+.post img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+  padding: 4px;
+  line-height: 1.42857143;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  -webkit-transition: all .2s ease-in-out;
+          transition: all .2s ease-in-out;
+}
 
 div.pager {
   border-top: 1px solid #eee;

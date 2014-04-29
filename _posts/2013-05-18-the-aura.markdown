@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "The Aura"
+date:   2013-05-18 18:06:00
+---
+
+[![](http://i.imgur.com/7bP5mAv.gif)](http://www.phdcomics.com/comics.php?f=1518)
+
+For the next four months I'll be working at Safe Software Inc. again and I couldn't be more excited. The last time I had a coop with them I never really got the chance to specialize in a specific area of the codebase. This was mainly due to the fact that I would be frequently moved to different teams if they wanted a little extra help to fix a problem or add a feature. While this was a lot of fun and very interesting, since I got to see a lot of the code, it was also a little frustrating since I was always relearning how different areas of the code did different things. Now however I will be on one team, working in one area of the code and so I should be able to get a good understanding of how everything works. While learning this particular area of the code, I had an interesting experience involving "The Aura"...
+
+<!--more-->
+
+As you can see in the comic above "The Aura" is small bubble around your Ph.D. advisor, or in this case my supervisor, in which everything makes sense and outside everything is complete gibberish. One of my first tasks at work was to update one of the formats supported by FME so that it preserves character encodings. This way if a user wishes to read or write data that was created on, say, a Russian computer but they are using an English computer the data will stay intact and will be displayed correctly (for more information about character encodes I highly recommend reading this article on [Joel on Software](http://joelonsoftware.com/articles/Unicode.html "The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)")).
+
+While working on this task we have decided to only make changes to the areas of the code that will actually have to support character encodings, this way we don't have to do some needlessly expensive operations to support character encodings if the text will never have an encoding. To learn more about the format and where encodings need to be supported I talked to my supervisor and while in his office I understood perfectly. I knew how encodings worked, I knew what we had to change and where these changes would need to be implemented; I understood it all. The second I sat down at my computer to start working every bit of knowledge fell out of my head like water through a sieve...
+
+So the way I see it I have two options: move my desk next to his office so I'm inside "The Aura" at all times; or spend a lot more time reading up on encodings, the format, and our code.
