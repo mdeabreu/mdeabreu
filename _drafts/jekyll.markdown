@@ -1,5 +1,13 @@
-Jekyll
+---
+layout: post
+title:  "Jekyll"
+date:   2014-05-11 21:21:00
+---
+
 I've recently done some posts about WordPress, reducing spam, and my setup on NearlyFreeSpeech; one of my main goals for my website (aside from being useful for myself and others) has always been to keep it as cheap as possible. This is one of the main reasons why I decided to go with NFSN as opposed to another host like Host Gator, or Blue Host; with nearly free speech I only have to pay for the resources I use (you can read a bit more about this [here](http://Google.com)). In an attempt to lower my costs even more I have decided to switch from a dynamic site that makes use of PHP for running WordPresss to a static site using the static site generator [Jekyll](http://Jekyll.com).
+
 <!--more-->
+
 What this means is that I create content for my site (say a blog post) as individual files, when I want to update my site I run Jekyll and it will combine everything to make a fully functional site with a list of the most recent posts on the front page and pages for each post. To make this easier for myself I have the whole site saved in Git meaning I can track every change I've made. Once I'm happy with all my changes I can ssh onto the NFSN server, run `git pull` to get all the recent changes and then run `jekyl build` to generate the site and put everything into the public HTML folder.
+
 Having a static site is nice because now I only have to pay for the resource I use (bandwidth and storage), because my site is so small and very few people actually visit it I end up paying a miniscule amount. One of the downsides of a static site is that I don't have any sort of comment system for people to ask questions or discuss any topics; this limitation is easily overcome by using the comment system [Disqus](). Beyond that Jekyll does everything I would want for my website! I am looking into some other additions that can be made to my site to make it even more useful and easy to use, so in the future I will be making posts on new features added and how Imanaged to add them if they are interesting.

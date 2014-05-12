@@ -7,3 +7,7 @@ tags: tag1 tag2
 ---
 
 Content
+
+<!--more-->
+
+More content
