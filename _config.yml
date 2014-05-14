@@ -1,6 +1,7 @@
 # General Configuration
 pygments: true
 destination: ../public
+markdown: kramdown
 
 # Permalink
 permalink: /:year/:month/:day/:title/
