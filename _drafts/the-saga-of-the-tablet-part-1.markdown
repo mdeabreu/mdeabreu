@@ -9,4 +9,4 @@ After looking into it a bit more, Emma decided that she wanted to try it as well
 
 <!--more-->
 
-
+Immediately after purchasing the tablet I began experimenting with different apps to find one that worked well and was feature rich. The one I found, "Lecture Notes" had more than enough features and options; in fact it had so many it took a little while to at it set up correctly. It was during that time that I was getting a little frustrated because unlike the iPad it did not work out of the box, however with a little tweaking I get it working. It was only once I bought everything to class that I noticed some of the problems that would plague me.
