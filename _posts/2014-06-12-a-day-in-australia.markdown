@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A Day in Australia"
-date:   2014-07-12 12:35:00
+date:   2014-06-12 12:35:00
 ---
 
 ![Fremantle Cathedral](http://i.imgur.com/LOfgbGC.jpg)
