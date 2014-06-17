@@ -16,4 +16,4 @@ We're so tempted to take it out right now... but we must resist.
 
 [![Finished cooking](http://i.imgur.com/L8EGwkLl.jpg)](http://i.imgur.com/L8EGwkL.jpg)
 
-As I said, we eat really well here. Bon appétit!
+As I said, we eat really well here. Bon appetit!
