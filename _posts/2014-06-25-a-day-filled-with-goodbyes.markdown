@@ -4,7 +4,7 @@ title:  "A Day Filled With Goodbyes"
 date:   2014-06-25 17:00:00
 ---
 
-For the past four months Emma has been on exchange in Australia; many readers know this already but what you may not realize is just how many friends she has made and how close she has gotten to them. For the past couple of days now that everyone has finished exams it has been one event after another to release steam and relax, during these events I have met most of Emma's friends and learned just how amazing they all are. Two nights ago Emma and I hosted her last party with all of them; we invited them over to our apartment and we all played games, laughed, drank and ate every last scrap of food in the house.
+For the past four months Emma has been on exchange in Australia; many readers know this already but what you may not realize is just how many friends she has made and how close she has gotten to them. For the past couple of days now that everyone has finished exams it has been one event after another to release steam and relax, during these events I have met most of Emma's friends and learned just how amazing they all are. Three nights ago Emma and I hosted her last party with all of them; we invited them over to our apartment and we all played games, laughed, drank and ate every last scrap of food in the house.
 
 We started off the evening with chips, crackers, wine, and cheese while playing a game of Never Have I Ever. Basically, we're all sitting in a circle and one at a time we say "Never have I ever..." and then an activity like bungee jumping or going to a night club; anyone in the circle who has done one of these things takes a sip of their drink. It's a great way to learn more about your friends.
 
