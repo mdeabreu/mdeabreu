@@ -8,7 +8,7 @@ date:   2014-06-29 22:25:00
 
 Yesterday was the first time we took a preplanned tour, we booked a tour up to the highest point in Thailand known a Doi Inthanon. We booked the tour though tourist information booth where the owner helped point us toward various temples and points of interest on the first day, we was extremely kind and helpful so we trusted his recommendation of a travel company.
 
-The day of the tour while waiting to be picked up at our hotel I looked up the company running the tour, Journey Tours, on TripAvisor; the reviews were… mixed… This didn't instill me with a lot of confidence however any worries I had were quickly forgotten, there were eight other people joining us for the tour and our tour guide turned out to be really nice and gladly shared all sorts of information with us about all the sights we saw.
+The day of the tour while waiting to be picked up at our hotel I looked up the company running the tour, Journey Tours, on TripAvisor; the reviews were... mixed... This didn't instill me with a lot of confidence however any worries I had were quickly forgotten, there were eight other people joining us for the tour and our tour guide turned out to be really nice and gladly shared all sorts of information with us about all the sights we saw.
 
 It was about a 45 minute drive out of the city followed by a half hour drive up the winding road until we reached the top with a monument to a king who had helped to preserve large plots of land as nature reserves.
 
