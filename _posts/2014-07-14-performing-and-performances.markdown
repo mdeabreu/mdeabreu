@@ -18,7 +18,7 @@ The entire temple is made out of wood including all the intricately detailed fig
 
 Everything about this place was stunning... The temple itself is only 30 years old however the artist and the many artisans working under him have worked hard to make the temple feel ancient and they have absolutely succeeded at it.
 
-[![trying not to die](http://i.imgur.com/nZsDf3L.jpg)](http://i.imgur.com/nZsDf3L.jpg)
+[![trying not to die](http://i.imgur.com/nZsDf3Ll.jpg)](http://i.imgur.com/nZsDf3L.jpg)
 
 In the grounds surrounding the temple they had a small little theater where twice a day a small show was performed showing Thai dancing and also Thai combat. It was really cool to see the dancing and the staged combat because the performers where having fun and enjoying themselves. During the fight one of the performers hid behind Emma and I while the other said he would throw his sword between us! He then dragged each of us up one at a time and showed us quickly how to fight and got us to fight the other performer! This was absolutely a highlight of our visit to the Sanctuary of Truth.
 
