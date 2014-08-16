@@ -14,12 +14,10 @@ On one of our previous days in Bangkok we had attempted to visit several of the 
 
 As you can see the Buddha is quite massive! They even had all the little gifts that had been donated to the temple by visiting foreign dignitaries including a signed letter from President Obama.
 
-4163
 [![hiding the emerald buddha](http://i.imgur.com/8AFHZlcl.jpg)](http://i.imgur.com/8AFHZlc.jpg)
 
 After lunch we made our way to the Royal Palace and the temple within the grounds, here you can see one of the main buildings in the temple that houses the Emerald Buddha. It was originally called the white Buddha because it had a covering hiding the material beneath, when the outer layer was cracked and damaged they were able to see the jade underneath and renamed it the Emerald Buddha. Now it sits in the building and a few times a year the king of Thailand will come and change the outfit to show all the current season of the year.
 
-4179
 [![elephants stand guard](http://i.imgur.com/CwunoEkl.jpg)](http://i.imgur.com/CwunoEk.jpg)
 
 After the temple there were some portions of the Royal Palace that were open to the public along with a textile museum showing some of the outfits the queen has worn and all the work she is doing to help the silk industry in Thailand.
