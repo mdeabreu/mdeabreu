@@ -8,7 +8,7 @@ Going into Thailand we knew that our visa was only valid for 30 days so we knew 
 
 [![standing in front of Angkor Wat](http://i.imgur.com/acR4vbwl.jpg)](http://i.imgur.com/acR4vbw.jpg)
 
-When we arrived in Siem Reap we got a taxi from the airport to our hotel, along the way our driver offered to be an exclusive driver for an entire day where he would take us to the many different temples withing the heritage site that are too far to walk to (about 45 km from Angkor Wat) and that he would pick us up early in the morning to see sunrise over Angkor Wat. We agreed since he was a nice guy, we wanted to see the sunrise, and many people will rent a tuktuk or a taxi for a whole day.
+When we arrived in Siem Reap we got a taxi from the airport to our hotel, along the way our driver offered to be an exclusive driver for an entire day where he would take us to the many different temples within the heritage site that are too far to walk to (about 45 km from Angkor Wat) and that he would pick us up early in the morning to see sunrise over Angkor Wat. We agreed since he was a nice guy, we wanted to see the sunrise, and many people will rent a tuktuk or a taxi for a whole day.
 
 The next morning we woke up painfully early but we knew we had to be out the door, the sunrise waits for no one! Turns out, there wasn't going to be a sunrise, it was overcast... Regardless we got to see Angkor from a distance and we decided to press on, there would be other days to explore Angkor Wat and we had other temples waiting for us!
 
@@ -24,4 +24,4 @@ For our third and final day in Angkor we decided to go on a 30-40km bike ride th
 
 [![slow destruction](http://i.imgur.com/AtB9uTXl.jpg)](http://i.imgur.com/AtB9uTX.jpg)
 
-One of the more amazing sites I saw was this absolutely massive tree growing on top of part of the temple. The tree is actually slowly destroying this part of the temple as its roots seek out water. What makes this so stunning in my mind is just thinking about how old this tree must be so that it could grow to such immense heights, and to think that the temple is even older! It had to be abandoned in order for the tree to start growing! This is just one of many examples that helps to solidify in your mind just how **old** this place is... Truly mind boggling and absolutely stunning...
+One of the more amazing sights I saw was this absolutely massive tree growing on top of part of the temple. The tree is actually slowly destroying this part of the temple as its roots seek out water. What makes this so stunning in my mind is just thinking about how old this tree must be so that it could grow to such immense heights, and to think that the temple is even older! It had to be abandoned in order for the tree to start growing! This is just one of many examples that helps to solidify in your mind just how **old** this place is... Truly mind boggling and absolutely stunning...
