@@ -1,6 +1,5 @@
 # General Configuration
-pygments: true
-destination: ../public
+destination: /home/public
 markdown: kramdown
 
 # Permalink
