@@ -27,6 +27,13 @@ body {
 .post {
   margin-bottom: 25px;
 }
+
+.date,
+.categories,
+.tags {
+  margin-right: 20px;
+}
+
 .page img,
 .post img {
   display: block;

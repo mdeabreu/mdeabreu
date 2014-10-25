@@ -10,9 +10,13 @@ paginate_path: "/page/:num/"
 category_archive:
   path: "category"
 
+# Tag Archive
+tag_archive:
+  path: "tag"
+
 # Site
 title: Matthew DeAbreu
-tagline: 
+tagline:
 url: http://mdeabreu.com
 
 # Author

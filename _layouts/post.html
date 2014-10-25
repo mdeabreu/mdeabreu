@@ -5,7 +5,33 @@ layout: default
 <div class="row post">
   <div class="col-md-12">
     <h1>{{ page.title }}</h1>
-    <p><small class="text-muted">{{ page.date | date: '%B %-d, %Y' }} </small></p>
+    <p><small class="text-muted">
+      <span class="date"><span class="glyphicon glyphicon-time"></span> {{ page.date | date: '%B %-d, %Y' }}</span>
+      {% if page.categories.size > 0 %}
+        <span class="categories">
+          <span class="glyphicon glyphicon-folder-open"></span>
+          {% for c in page.categories %}
+            {% if forloop.last %}
+              {% categorylink c %}{{ c | capitalize }}{% endcategorylink %}
+            {% else %}
+              {% categorylink c %}{{ c | capitalize }}{% endcategorylink %},
+            {% endif %}
+          {% endfor %}
+        </span>
+      {% endif %}
+      {% if page.tags.size > 0 %}
+        <span class="tags">
+          <span class="glyphicon glyphicon-tag"></span>
+          {% for t in page.tags %}
+            {% if forloop.last %}
+              {% taglink t %}{{ t }}{% endtaglink %}
+            {% else %}
+              {% taglink t %}{{ t }}{% endtaglink %},
+            {% endif %}
+          {% endfor %}
+        </span>
+      {% endif %}
+    </small></p>
     {{ content }}
   </div>
 </div>
