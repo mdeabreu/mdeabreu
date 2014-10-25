@@ -57,7 +57,7 @@ module Jekyll
       end
 
       href = File.join('/', context.environments.first['site']['category_archive']['path'],
-                       category, 'index.html')
+                       category)
       "<a href=\"#{href}\">#{super}</a>"
     end
   end
