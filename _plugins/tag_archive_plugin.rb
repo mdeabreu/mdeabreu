@@ -79,13 +79,13 @@ module Jekyll
       self.ext = '.html'
       self.basename = 'index'
       self.content = <<-EOS
-{% for post in page.posts %}<li><a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}"><span>{{ post.title }}<span></a></li>
+{% for post in page.posts reversed %}<li><a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}"><span>{{ post.title }}<span></a></li>
 {% endfor %}
       EOS
       self.data = {
           'layout' => @layout,
           'type' => 'archive',
-          'title' => "Tag archive for #{@tag}",
+          'title' => "#{@tag}",
           'posts' => posts,
           'url' => File.join('/',
                      TagArchiveUtil.archive_base(site),
