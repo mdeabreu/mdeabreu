@@ -6,6 +6,10 @@ markdown: kramdown
 permalink: /:year/:month/:day/:title/
 paginate_path: "/page/:num/"
 
+# Category Archive
+category_archive:
+  path: "category"
+
 # Site
 title: Matthew DeAbreu
 tagline: 
