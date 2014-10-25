@@ -2,6 +2,7 @@
 layout: post
 title: "Chiang Rai"
 date:   2014-06-30 18:19:00
+category: ["Travel", "Thailand"]
 ---
 
 After the great success of the tour to Doi Inthanon we decided to book another tour they offered to the city of Chiang Rai to the north. This would be a longer tour with more driving but we would be able to see the White Temple and the Golden Triangle among other stops.

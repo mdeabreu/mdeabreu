@@ -2,6 +2,7 @@
 layout: post
 title:  "Japan Airlines"
 date:   2014-06-08 17:52:00
+category: ["Travel", "Random"]
 ---
 
 Over the past several months, my girlfriend Emma and I have been planning a backpacking trip to Thailand and today I have left to meet her in Australia where she has been on exchange with Murdoch University. Throughout my life I have had very little flying experience beyond the small puddle jumpers that are flown by WestJet within North America. Now however I get to fly in a brand new Boeing 787-8, more commonly known as a Dreamliner, and I have to say it is a dream.

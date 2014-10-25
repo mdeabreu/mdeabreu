@@ -2,6 +2,7 @@
 layout: post
 title: "Pattaya"
 date:   2014-07-11 09:03:00
+category: ["Travel", "Thailand"]
 ---
 
 [![Coconut in hand and on a beach, perfect](http://i.imgur.com/imTGZm3l.jpg)](http://i.imgur.com/imTGZm3.jpg)

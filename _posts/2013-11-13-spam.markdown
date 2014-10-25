@@ -2,6 +2,7 @@
 layout: post
 title:  "Spam"
 date:   2013-11-13 22:52:00
+category: "Random"
 ---
 
 This is my personal site, I think of it as my little home on the internet; a place for me to post random thoughts, the occasional tutorial, and information about myself for curious individuals (RE: prospective employers). So it seems a little bizarre whenever I look at the spam stats for my website, there is so much of it! To make it even weirder not a single piece has made it past the filters... So to give you a little in sight into the kind of spam and how much here are some photos!

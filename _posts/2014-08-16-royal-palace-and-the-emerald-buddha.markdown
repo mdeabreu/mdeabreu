@@ -2,6 +2,7 @@
 layout: post
 title: "Royal Palace and the Emerald Buddha"
 date:   2014-08-16 14:16:00
+category: ["Travel", "Thailand"]
 ---
 
 It's been a while since my last blog post and I apologize for that, I've been sending emails to my family to keep them up to date but I've fallen behind on my blog posting. So I will be revisiting previous locations and telling you all about them, first up: The Royal Palace and The Emerald Buddha.

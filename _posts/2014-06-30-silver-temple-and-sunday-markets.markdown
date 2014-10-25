@@ -2,6 +2,7 @@
 layout: post
 title: "Silver Temple and Sunday Markets"
 date:   2014-06-30 17:40:00
+category: ["Travel", "Thailand"]
 ---
 
 I mentioned in an earlier post that we had decided to stay longer in Chiang Mai, on of the reasons was so we would be able to visit the Sunday Market. This is a much larger version of the night bazaar we visited on our second day, we knew it was larger but when we got there we were just blown away.

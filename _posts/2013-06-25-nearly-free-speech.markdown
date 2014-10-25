@@ -2,6 +2,7 @@
 layout: post
 title:  "Nearly Free Speech"
 date:   2013-06-25 18:05:00
+category: "Random"
 ---
 
 [![](https://www.nearlyfreespeech.net/logos/nfsn234x60logo.gif)](http://nearlyfreespeech.net)

@@ -2,6 +2,7 @@
 layout: post
 title: "Light and Dark"
 date:   2014-07-19 16:27:00
+category: ["Travel", "Thailand"]
 ---
 
 So as I said previously we have arrived in Bangkok, our hostel is quite a ways out of the downtown core but thankfully is only an 8 minute walk to the BTS (skytrain) station from which we can get just about anywhere. One area of Bangkok has quite a few temples and so we decided to head to that part of the city and work our way from one temple to the next taking as many photos as we could. In theory this sounded like a great idea but the day turned sour fast. The map we had was not to scale, so what we thought would be a short walk turned out to be much longer... As we were walking we bumped into a random local who started talking to us and asked if we had a map, so we took ours out and he quickly started writing on it showing us different places that would be nice to visit and that we were unlucky because the temples were closed for a Buddhist holiday. One thing he was very quick to recommend was a one hour long tailed boat tour; we had heard of this tour but we weren't keen on doing it (it was 1 or 2 thousand baht which we didn't want to spend). While we were thanking him for the advice he even went onto the street and hailed a tuktuk to take us to the pier to get on the boat tour. We thanked both him and the driver but declined and continued walking.

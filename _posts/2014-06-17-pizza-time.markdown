@@ -2,6 +2,7 @@
 layout: post
 title:  "Pizza Time"
 date:   2014-06-17 20:24:00
+category: ["Travel", "Random"]
 ---
 
 Despite a day filled with studying, blog posting, cleaning, and doing chores; we still found time to make an amazing dinner for ourselves. Not to mention this cleaned out a lot of the fridge so we won't have to worry about anything going bad for the two weeks no one is in the apartment.

@@ -2,6 +2,7 @@
 layout: post
 title: "Koh Samui"
 date:   2014-08-16 14:30:00
+category: ["Travel", "Thailand"]
 ---
 
 After the many temples both in Thailand and in Cambodia we were starting to get a little tired of looking at ruins, luckily for us this part of the trip contained absolutely no temples! The rest of our trip would be nice and relaxing, and Koh Samui would be the perfect place to do exactly that. The entire island is basically one big beach resort.

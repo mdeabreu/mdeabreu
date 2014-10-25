@@ -2,6 +2,7 @@
 layout: post
 title: "Performing and Performances"
 date:   2014-07-14 16:01:00
+category: ["Travel", "Thailand"]
 ---
 
 One of the highest rated things to do in Pattaya is to visit the Sanctuary of Truth, much like the White temple on the way to Chiang Rai it is a temple that has been created by an artist.

@@ -2,6 +2,7 @@
 layout: post
 title:  "A Day Filled With Goodbyes"
 date:   2014-06-25 17:00:00
+category: ["Travel", "Random"]
 ---
 
 For the past four months Emma has been on exchange in Australia; many readers know this already but what you may not realize is just how many friends she has made and how close she has gotten to them. For the past couple of days now that everyone has finished exams it has been one event after another to release steam and relax, during these events I have met most of Emma's friends and learned just how amazing they all are. Three nights ago Emma and I hosted her last party with all of them; we invited them over to our apartment and we all played games, laughed, drank and ate every last scrap of food in the house.

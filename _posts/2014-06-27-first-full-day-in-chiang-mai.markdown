@@ -2,6 +2,7 @@
 layout: post
 title: "First Full Day in Chiang Mai"
 date:   2014-06-27 21:30:00
+category: ["Travel", "Thailand"]
 ---
 
 We are now fully settled into life in Chiang Mai and so far it has been amazing; now I can finally take the time to write this and fill you all in on the first full day in Chiang Mai.

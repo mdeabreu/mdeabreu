@@ -2,6 +2,7 @@
 layout: post
 title:  "A Day in Australia"
 date:   2014-06-12 12:35:00
+category: ["Travel", "Random"]
 ---
 
 [![Fremantle Cathedral](http://i.imgur.com/LOfgbGCl.jpg)](http://i.imgur.com/LOfgbGC.jpg)

@@ -2,6 +2,7 @@
 layout: post
 title:  "The Aura"
 date:   2013-05-18 18:06:00
+category: "Random"
 ---
 
 [![](http://i.imgur.com/7bP5mAv.gif)](http://www.phdcomics.com/comics.php?f=1518)

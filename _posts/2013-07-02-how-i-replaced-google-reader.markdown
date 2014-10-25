@@ -2,6 +2,7 @@
 layout: post
 title:  "How I Replaced Google Reader"
 date:   2013-07-02 21:52:00
+category: "Tutorial"
 ---
 
 As I'm [sure](http://lifehacker.com/google-reader-is-shutting-down-here-are-the-best-alter-5990456) [you](http://mashable.com/2013/07/01/google-reader-final-countdown/) [know](http://www.huffingtonpost.com/2013/07/01/google-reader-shut-down_n_3518733.html) Google Reader is about to bite the dust, so I thought I would write about how I replaced it with something just as good, if not better. Some of the main reasons I loved Google Reader was because it put all of my feeds in one synced location; I could wake up in the morning and read on my desktop, continue where I left off using my phone while transiting to school and then read on my laptop between classes. There were so many apps for iOS, Android, Windows and Mac that it didn't matter what device I had, I could still sync with Google Reader not to mention if I didn't have an app installed I could just visit the web app. Soon, however, Google Reader will disappear forever and I needed something to replace it.

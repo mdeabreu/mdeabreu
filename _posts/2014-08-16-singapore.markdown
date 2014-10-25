@@ -2,6 +2,7 @@
 layout: post
 title: "Singapore"
 date:   2014-08-16 14:37:00
+category: ["Travel", "Singapore"]
 ---
 
 [![a boat on a hotel](http://i.imgur.com/XPxwhQJl.jpg)](http://i.imgur.com/XPxwhQJ.jpg)

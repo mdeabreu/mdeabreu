@@ -2,6 +2,7 @@
 layout: post
 title:  "When Something Breaks"
 date:   2014-05-05 17:44:00
+category: "Random"
 ---
 
 Everything breaks. My family has an ongoing joke that the universe hates us and so if something **can** go wrong it **will** go wrong, also known as [Murphy's Law](http://en.wikipedia.org/wiki/Murphy's_law) but we call it DeAbreu's Law. As an extension to this we say that something is always broken, as soon as it is fixed something else will inevitably break. I recently had a huge run in with this and everything broke.

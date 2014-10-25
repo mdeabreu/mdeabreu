@@ -2,6 +2,7 @@
 layout: post
 title:  "John Forrest National Park"
 date:   2014-06-17 17:01:00
+category: ["Travel", "Random"]
 ---
 
 Today Emma has been frantically studying for her last two remaining final exams so I have been relaxing, playing some games, browsing the internet, and now writing a blog post to fill you all in on previous adventures.

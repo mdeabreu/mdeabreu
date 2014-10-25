@@ -2,6 +2,7 @@
 layout: post
 title:  "Spam 2.0"
 date:   2014-04-02 22:35:00
+category: "Random"
 ---
 
 Recently at NearlyFreeSpeech as part of my hosting I decided to switch from their normal payment plan to their Stochastic plans. Essentially what this means is that I will be paying less; normally at NFSN I would pay $0.01 / megabyte-month, this means that I pay a penny for every megabyte hosted on my site each month. So if I have a clean install of WordPress which is about 19 megabytes I would have to pay $0.19 each month. By switching to Stochastic I now pay $1.00 / gigabyte-month, so storage is significantly cheaper, but as a side effect I now pay $0.01 / <abbr title="Resource Accounting Unit">RAU</abbr> what this means is that every now and then NFSN will check on my site and look at how resource intensive it is being. If it is using a lot of CPU and RAM then I will be using more RAUs, if I am barely using any at all I will be charged only a slight amount for RAUs. What this means is that I want to reduce the processing time required by my site, and the first and most effect way I see to do this is to reduce the amount of incoming spam.

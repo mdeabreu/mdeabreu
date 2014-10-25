@@ -2,6 +2,7 @@
 layout: post
 title: "Thai Food"
 date:   2014-07-19 16:26:00
+category: ["Travel", "Thailand"]
 ---
 
 Many people will know that o absolutely love food; I watch cooking shows, I save interesting recipes, and I even occasionally try my hand at cooking. So when we were planning to come to Thailand I was really excited to try all the new and different types of food and for the past month that's exactly what I've been doing.

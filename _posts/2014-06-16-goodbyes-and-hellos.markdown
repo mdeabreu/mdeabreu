@@ -2,6 +2,7 @@
 layout: post
 title:  "Goodbyes and Hellos"
 date:   2014-06-16 11:21:00
+category: ["Travel", "Random"]
 ---
 
 As it is nearing a the end of semester everyone is saying their goodbyes in preparation of heading home, so last night after Emma's roommates finished their last exams they came over and we all had curry cashew lentil burgers which were absolutely delicious. That evening Sara had a plane to catch headed back to North America.

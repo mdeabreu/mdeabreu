@@ -2,6 +2,7 @@
 layout: post
 title: "Doi Inthanon"
 date:   2014-06-29 22:25:00
+category: ["Travel", "Thailand"]
 ---
 
 [![Highest point in Thailand](http://i.imgur.com/y2ze0ljl.jpg)](http://i.imgur.com/y2ze0lj.jpg)

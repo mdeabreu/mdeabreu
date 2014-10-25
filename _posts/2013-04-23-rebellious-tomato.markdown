@@ -2,6 +2,7 @@
 layout: post
 title:  "Rebellious Tomato"
 date:   2013-04-28 17:44:00
+category: "Reviews"
 ---
 
 Rebellious Tomato is a local pizza joint here in Vancouver that is sold as an organic and healthy version of pizza that aims to cut down on the unhealthy ingredients normally found in pizza. Their website describes how they use "fresh, organic ingredients" and how their "pizzas represent great taste and good nutrition".

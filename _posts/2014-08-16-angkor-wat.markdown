@@ -2,6 +2,7 @@
 layout: post
 title: "Angkor Wat"
 date:   2014-08-16 14:27:00
+category: ["Travel", "Cambodia"]
 ---
 
 Going into Thailand we knew that our visa was only valid for 30 days so we knew that at some point we would have to leave the country and then re-enter to get another 30 days. We decided to make the best of this by leaving Thailand and going to Cambodia, specifically to Siem Reap where we could go to see Angkor Wat and the rest of the Angkor Heritage Site.

@@ -2,6 +2,7 @@
 layout: post
 title: "Temples, Museums, and Markets. Oh My!"
 date:   2014-06-28 17:57:00
+category: ["Travel", "Thailand"]
 ---
 
 Yesterday I mentioned that on our first day we were potentially scammed but we decided to take some potentially good information from it. The man had pointed out several different temples and places he would bring us, so we looked them up online and decided to visit on and the nearby national museum.

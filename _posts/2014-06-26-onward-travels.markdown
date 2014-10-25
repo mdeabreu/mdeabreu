@@ -2,6 +2,7 @@
 layout: post
 title: "Onward Travels"
 date:   2014-06-26 16:20:00
+category: ["Travel", "Thailand"]
 ---
 
 After all the fun and excitement of the party we spent the entire day of the 23rd packing like crazy to get everything ready for our departure. We did our laundry so we would have clean clothes, we did all the towels, face clothes, sheets, and blankets so they would be clean for Supanee and Sara. We vacuumed, mopped, and packed everything we owned into our bags. There were a few things we decided to throw out (old worn out clothes that would be too hot in Thailand), and a few things we decided to ship back to Canada; we sent the parcel by sea mail which will take around 2-3 months to get to Canada but on the plus side it was only $60. Once everything was packed and ready to go we hopped onto the train where we met up one last time with one of Emma's friends, Katja.

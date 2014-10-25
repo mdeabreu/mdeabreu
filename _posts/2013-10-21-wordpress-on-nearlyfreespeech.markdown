@@ -2,6 +2,7 @@
 layout: post
 title:  "Wordpress on NearlyFreeSpeech"
 date:   2013-10-21 13:55:00
+category: "Tutorial"
 ---
 
 Last month [NearlyFreeSpeech](http://nearlyfreespeech.net) rolled out new features in the form of new server realms for their users, these realms include Apache 2.4 and PHP 5.4. In addition they have also included the awesome little command line tool [wp-cli](http://wp-cli.org/) for managing your [WordPress](http://wordpress.org) installation. You can read more about the awesome updates that the NFSN team rolled out in their blog post here: [PHP 5.4, PHP 5.5, and Apache 2.4](http://blog.nearlyfreespeech.net/2013/09/21/php-5-4-php-5-5-and-apache-2-4/). In light of these new updates and the inclusion of wp-cli I have decided to write a quick little tutorial about how you can set up a simple little WordPress site in only a couple of minutes!
