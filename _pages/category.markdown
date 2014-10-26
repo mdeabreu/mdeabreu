@@ -9,6 +9,6 @@ permalink: /category/
 
 <ul>
   {% for c in categories %}
-    <li>{% categorylink c %}{{ c }}{% endcategorylink %}</li>
+    <li>{% categorylink c %}{{ c | capitalize }}{% endcategorylink %}</li>
   {% endfor %}
 </ul>
