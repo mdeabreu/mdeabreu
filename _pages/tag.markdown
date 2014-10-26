@@ -12,3 +12,13 @@ permalink: /tag/
     <li>{% taglink t %}{{ t }}{% endtaglink %}</li>
   {% endfor %}
 </ul>
+
+{% if tags.size > 0 %}
+  <ul>
+    {% for t in tags %}
+      <li>{% taglink t %}{{ t }}{% endtaglink %}</li>
+    {% endfor %}
+  </ul>
+{% else %}
+  <p>It looks like there are no posts or pages that have been tagged.</p>
+{% end if %}
