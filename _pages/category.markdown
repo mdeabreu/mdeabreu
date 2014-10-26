@@ -15,4 +15,4 @@ permalink: /category/
   </ul>
 {% else %}
   <p>It looks like there are no posts or pages in any categories.</p>
-{% end if %}
+{% endif %}

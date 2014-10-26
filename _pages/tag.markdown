@@ -21,4 +21,4 @@ permalink: /tag/
   </ul>
 {% else %}
   <p>It looks like there are no posts or pages that have been tagged.</p>
-{% end if %}
+{% endif %}
