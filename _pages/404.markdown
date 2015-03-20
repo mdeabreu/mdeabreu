@@ -3,4 +3,4 @@ layout: page
 title: 404
 ---
 
-404 not found
+Sorry, it looks like you've gotten a little lost!
