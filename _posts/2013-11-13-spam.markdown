@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "Spam"
+date:   2013-11-13 22:52:00
+category: "Random"
+---
+
+This is my personal site, I think of it as my little home on the internet; a place for me to post random thoughts, the occasional tutorial, and information about myself for curious individuals (RE: prospective employers). So it seems a little bizarre whenever I look at the spam stats for my website, there is so much of it! To make it even weirder not a single piece has made it past the filters... So to give you a little in sight into the kind of spam and how much here are some photos!
+
+[![](http://i.imgur.com/qtrdyHH.png)](http://i.imgur.com/qtrdyHH.png)
+
+Here is a little graph from [Akismet](http://akismet.com), a WordPress plugin installed by default, that has done an amazing job at filtering out spam comments. As you can see spam levels increased and then have been slowly decreasing. An odd thing I noticed a while back is that despite receiving one or two spam comments a day Google Analytics was unable to show that these "users" ever actually visited the site. It turns out that most spammers use bots that directly make HTTP POST requests to wp-comments-post.php, the WordPress comment script.
+
+[![](http://i.imgur.com/3kHisEj.png)](http://i.imgur.com/3kHisEj.png)
+
+Your typical SEO spam, every blogger wants to have their site found so these guys spam links like crazy.
+
+[![](http://i.imgur.com/v4RlPLT.jpg)](http://i.imgur.com/v4RlPLT.jpg)
+
+Some unrelated spam, this was posted as a comment on a blog post about pizza, so I'm not sure what handbags they're talking about...
+
+[![](http://i.imgur.com/kKQU8VD.png)](http://i.imgur.com/kKQU8VD.png)
+
+Another comment about bags, although this time it looks like spammers easily lose their train of thought.
+
+[![](http://i.imgur.com/cQdW6D1.png)](http://i.imgur.com/cQdW6D1.png)
+
+I  honestly don't know what to make of this...
+
+[![](http://i.imgur.com/tAXWBm9.png)](http://i.imgur.com/tAXWBm9.png)
+
+Yet another one that I have no idea what to make of, I'm not sure I even want to know.
+
+So as you can see a wide variety of spam makes its way to the steps of my website only to be cast into the trashcan by [Akismet](http://akismet.com). Despite the fact that none of this spam has made it onto my site as a comment I suppose on some sites the spam makes its way through the filters, otherwise the spammers would just give up. So if you are ever planning on hosting a site, please enable some form of spam protection so your users never have to see this.

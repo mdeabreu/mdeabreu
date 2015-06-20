@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Bluray"
+date:   2014-04-28 15:24:00
+category: "Random"
+---
+
+![Bluray](http://i.imgur.com/cV9SwRSl.png)
+
+As I'm sure you are aware, Bluray is the definitive winner of the next-gen physical media wars; as a result you can find them just about everywhere. PlayStation 3 and 4 are both able to read them, along with the Xbox One, dedicated Bluray players and Bluray drives for computers. In addition, walking into Futureshop or Best Buy you can see every new movie is being released on Bluray as well as re-releases of many older movies. They are everywhere! So it is a real shame how much of a failure they are to watch in some situations.
+
+<!--more-->
+
+I have a media computer attached to my TV; this is how I watch TV, DVDs, and now Blurays. I have never had a problem with DVDs since they work absolutely seamlessly with Windows 7, I simply insert the disk and Windows Media Center will take care of the rest. I have an IR remote allowing me to control the playback and navigate through the menus thus giving me a seamless playback experience. Blurays, on the other-hand, can be an extreme pain to watch; first of all, Windows 7 does not come with the required software out-of-the-box to play Blurays which means on top of buying the $60 player and the $20 - $40 movie, I now have to go out and buy an $80 piece of software! ($100 if I want to watch 3D movies)
+
+On top of having a decent sized initial investment, the software doesn't always work as I recently found out. I had decided to watch a copy of X-Men: First Class that my dad had picked up on Bluray but the video and audio would occasionally lag, or stutter; sometimes for up to 5 seconds. When I investigated a little further I found that one entire core of the CPU was pegged at 100%, even when the movie was paused. I mentioned this to my dad (he loves to buy Blurays despite these sorts of problems) and he said he had a worse experience with Prometheus, the lagging was so bad that he couldn't watch the movie and had to return it.
+
+These are only a few problems that I've noticed about Blurays but it makes me wonder how problems like this can persist 8 years after the first releases of Bluray players. It absolutely boggles my mind. I think people in general have just accepted that technology has flaws and will never work correctly 100% of the time. Frankly, I think that is flawed; we as consumers have to stand up for what we think is right. If something isn't working correctly we need to make our voices heard, to tell manufacturers and software developers that we expect a higher quality of product from them. Hopefully they will listen so that in the future we will have software and hardware made to the highest standards so that we can get the most use out of them.

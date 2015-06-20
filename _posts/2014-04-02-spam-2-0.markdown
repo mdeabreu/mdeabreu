@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Spam 2.0"
+date:   2014-04-02 22:35:00
+category: "Random"
+---
+
+Recently at NearlyFreeSpeech as part of my hosting I decided to switch from their normal payment plan to their Stochastic plans. Essentially what this means is that I will be paying less; normally at NFSN I would pay $0.01 / megabyte-month, this means that I pay a penny for every megabyte hosted on my site each month. So if I have a clean install of WordPress which is about 19 megabytes I would have to pay $0.19 each month. By switching to Stochastic I now pay $1.00 / gigabyte-month, so storage is significantly cheaper, but as a side effect I now pay $0.01 / <abbr title="Resource Accounting Unit">RAU</abbr> what this means is that every now and then NFSN will check on my site and look at how resource intensive it is being. If it is using a lot of CPU and RAM then I will be using more RAUs, if I am barely using any at all I will be charged only a slight amount for RAUs. What this means is that I want to reduce the processing time required by my site, and the first and most effect way I see to do this is to reduce the amount of incoming spam.
+
+While I don't receive much, it does build up over time; Akismet (a spam catching plugin for WordPress) does an exceptional job of catching spam however because part of it is running on my site I have to pay for the resources used. Looking around one way that a few people have mentioned that it is possible to use `.htaccess` to restrict access to the php file that controls commenting. The easiest way seems to be by checking the referral line sent by the browser, if the user did not come from my site this line will not match my domain name and so I can assume they are a spammer. Hopefully this stops the vast majourity of spam coming my way but I will have to keep an eye out to see what happens.
+
+If you would like to learn more about RAUs please read the [NFSN FAQ](https://members.nearlyfreespeech.net/faq?q=ResourceAccountUnit#ResourceAccountUnit).
+
+If you would like to learn how to stop spam based on referral please read this [Wordpress Codex entry](https://codex.wordpress.org/Combating_Comment_Spam/Denying_Access#Deny_Access_to_No_Referrer_Requests).
